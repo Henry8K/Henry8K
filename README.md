@@ -1,7 +1,7 @@
 <!-- Introdução a minha pessoa! -->
 <div align="justify">
   <h2>👋 » Introdução</h2>
-  <p>Olá! Me chamo <strong>Henry Thierry</strong>, mais conhecido como HenryDM fora do Brasil, sou desenvolvedor Full Stack, sou estudante de ciências da computação atualmente e fundador da GumpSide, trabalho com programação a 2 anos, começei com php na poggit e logo após começei a aprender e me aprofundar mais no <b>HTML/CSS</b>, area em que sou mais especializado atualmente, também sei um pouco de back-end, principalmente <b>SQL</b>.</p>
+  <p>Olá! Me chamo <strong>Henry Thierry</strong>, mais conhecido como HenryDM fora do Brasil, sou desenvolvedor Full Stack, sou estudante de ciências da computação atualmente e fundador da Devclipse, trabalho com programação a 2 anos, começei com php na poggit e logo após começei a aprender e me aprofundar mais no <b>HTML/CSS</b>, area em que sou mais especializado atualmente, também sei um pouco de back-end, principalmente <b>SQL</b>.</p>
 </div>
 
 <!-- Divisória do meu perfil -->
